@@ -14,9 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicToggle: 1
   sfxToggle: 1
+  masterToggle: 1
   fullscreenToggle: 1
   hasPlayedTutorial: 0
   sceneIndex: 0
+  fastestTime: 0
   musicVolume: 0
   sfxVolume: 0
   masterVolume: 0
