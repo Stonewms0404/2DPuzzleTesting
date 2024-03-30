@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tilemap
+  - Enemy
+  - Switch
+  - LevelGen
+  - Room
+  - Object
+  - LevelLoader
+  - SettingsManager
+  - Light
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Room
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1436150819
+    locked: 0
+  - name: Enemies
+    uniqueID: 195633417
+    locked: 0
+  - name: Tiles
+    uniqueID: 4160706133
+    locked: 0
+  - name: Objects
+    uniqueID: 3435862395
+    locked: 0
+  - name: Lighting
+    uniqueID: 540836135
+    locked: 0
+  - name: UserInterface
+    uniqueID: 2193847769
+    locked: 0
