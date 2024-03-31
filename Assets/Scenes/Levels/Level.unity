@@ -4839,7 +4839,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2255682883043273995, guid: 7e0057033e5d24b4c9e41adac86e039e, type: 3}
       propertyPath: timeBtwRoomsToReach
-      value: 0.01
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2255682883043273995, guid: 7e0057033e5d24b4c9e41adac86e039e, type: 3}
       propertyPath: otherRooms.Array.size
